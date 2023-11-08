@@ -14,9 +14,13 @@ This React Gallery App is a single-page application that showcases beautiful ima
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed:
-- [Node.js](https://nodejs.org/)
-- npm (Comes with Node.js)
+## Prerequisites
+
+Before starting, make sure the system has the following software installed:
+
+- [Node.js](https://nodejs.org/) - The JavaScript runtime environment. It is required to run the application locally.
+- npm - A package manager for JavaScript, included with Node.js installation. It is necessary for installing dependencies and running scripts.
+
 
 ## Running the App
 
