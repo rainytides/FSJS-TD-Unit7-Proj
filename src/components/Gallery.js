@@ -47,7 +47,7 @@ const Gallery = ({ topic, isIndex = false }) => {
   return (
     <div className="photo-container">
       {/* Show the tag or "Recent" if no tag is provided */}
-      <h2>Gallery of {tag ? `${tag.charAt(0).toUpperCase()}${tag.slice(1)}` : 'Recent Photos'}</h2>
+      <h2>Gallery of {tag ? `${tag.charAt(0).toUpperCase()}${tag.slice(1)}` : 'Images'}</h2>
 
       {/* Show a loading message or the list of photos */}
       {loading ? <p>Loading...</p> : <PhotoList photos={photos} />}
