@@ -5,7 +5,7 @@ import Nav from './components/Nav';
 import Gallery from './components/Gallery';
 import PageNotFound from './components/PageNotFound';
 
-// Define the topics array with specified topics
+// Define the topics array
 const topics = ['rivers', 'trees', 'flowers'];
 
 function App() {
