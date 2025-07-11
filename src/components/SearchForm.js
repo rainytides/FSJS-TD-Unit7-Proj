@@ -20,7 +20,7 @@ const SearchForm = () => {
     navigate(`/search/${searchTerm}`); // Navigate to the search path
     setSearchTerm(''); 
   };
-
+n
   // Function to update search term state when input changes
   const handleInputChange = (event) => {
     setSearchTerm(event.target.value); // Update the search term
